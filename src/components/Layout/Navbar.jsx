@@ -50,7 +50,7 @@ const Navbar = () => {
           </ul>
         </div>
         <Link className="text-2xl font-bold" href={"/"}>
-          Care.IO
+          Care.xyz
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">

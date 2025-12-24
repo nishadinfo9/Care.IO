@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Button from "@/components/utils/Button";
 
+
 const NotFoundPage = () => {
   return (
     <section className="min-h-screen flex items-center justify-center px-4">

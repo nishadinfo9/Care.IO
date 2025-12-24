@@ -12,6 +12,7 @@ import { signIn } from "next-auth/react";
 import SocialLogin from "@/components/Buttons/SocialLogin";
 import toast from "react-hot-toast";
 
+
 const Login = () => {
   const router = useRouter();
   const {

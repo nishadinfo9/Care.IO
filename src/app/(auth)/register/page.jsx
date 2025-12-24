@@ -9,6 +9,7 @@ import { registerUser } from "@/actions/server/auth";
 import { useRouter } from "next/navigation";
 import SocialLogin from "@/components/Buttons/SocialLogin";
 
+
 const Register = () => {
   const router = useRouter();
   const {
